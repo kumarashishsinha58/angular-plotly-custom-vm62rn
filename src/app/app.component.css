@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+
+.active {
+  color: dodgerblue;
+}
+
+.btn {
+  margin-right: 10px;
+}
